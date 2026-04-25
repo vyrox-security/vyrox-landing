@@ -8,6 +8,8 @@
 
 Vyrox Landing is the public product site for explaining what Vyrox does, how the trust model works, and why the execution boundary is open-core and auditable. It exists separately from the runtime code so go-to-market iteration does not risk operational systems, while still giving security buyers enough implementation detail to pass an initial zero-trust sniff test.
 
+Website: vyrox.dev (coming soon)
+
 ## Why This Exists
 
 Security teams rarely buy from a homepage, but they often reject from one. If the public narrative is vague, inconsistent, or detached from real architecture, trust is lost before technical review starts.
@@ -73,6 +75,8 @@ Contributions are most useful for factual corrections, accessibility improvement
 Do not merge copy that overstates capabilities, implies unsupported integrations, or conflicts with public architecture documentation. This repository is marketing, not fiction.
 
 See CONTRIBUTING.md for contribution process and review expectations. External contributions may be accepted, but claims must remain technically defensible.
+
+Security contact: sec.vyrox@proton.me
 
 ## Licence
 
