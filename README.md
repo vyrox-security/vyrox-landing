@@ -6,9 +6,28 @@
 ![Platform](https://img.shields.io/badge/platform-node-339933?style=flat-square)
 ![Funny](https://img.shields.io/badge/hero%20copy-reviewed%20by%20skeptics-6a737d?style=flat-square)
 
-Vyrox Landing is the public product site for explaining what Vyrox does, how the trust model works, and why the execution boundary is open-core and auditable. It exists separately from the runtime code so go-to-market iteration does not risk operational systems, while still giving security buyers enough implementation detail to pass an initial zero-trust sniff test.
+## What is Vyrox?
 
-Website: vyrox.dev (coming soon)
+Vyrox is an **AI-native Managed Detection and Response (MDR) service** that delivers enterprise-grade security at a fraction of traditional MSSP costs.
+
+**The Problem**: Mid-market companies (200-2,500 employees) have CrowdStrike or SentinelOne but no SOC team to monitor it 24/7. Traditional MSSPs charge $15-25/endpoint/month and pad billable hours.
+
+**The Solution**: AI-powered triage that handles 80%+ of alerts automatically, with human analysts for critical decisions. Same SLA as a 50-person MSSP, at 1/3 the price.
+
+### Why Vyrox?
+
+| Traditional MSSP | Vyrox |
+|-----------------|-------|
+| $15-25/endpoint/month | $6-8/endpoint/month |
+| Billable hours padding | No padding — AI doesn't invoice |
+| 24-48hr response | 15-minute SLA on CRITICAL |
+| Account managers, overhead | API-first, no bloat |
+
+Website: [vyrox.dev](https://vyrox.dev) (launching 2026)
+
+---
+
+Vyrox Landing is the public product site for explaining what Vyrox does, how the trust model works, and why the execution boundary is open-core and auditable. It exists separately from the runtime code so go-to-market iteration does not risk operational systems, while still giving security buyers enough implementation detail to pass an initial zero-trust sniff test.
 
 ## Why This Exists
 
